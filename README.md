@@ -1,0 +1,2 @@
+# mysql-estructura
+MySQL databases
